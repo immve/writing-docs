@@ -28,6 +28,20 @@ I currently write software documentation using Markdown so I'll focus on that fo
     - [Javadoc](https://en.wikipedia.org/wiki/Javadoc)
   
   <blockquote style="border-left: 5px solid #ccc;">You don't really need to learn those as they are very specific to a programming language documentation.</blockquote>
+  
+## Best Practices
+
+### Make it clear
+
+I have noticed while looking for documentation myself that people and companies always assume to know who their end user is. The target of your product is not necessarily the person who will read your doc. I had a devOps engineer help me install something on my computer and even him couldn't figure out the doc. I always have a beginner version of the doc I write and put it in the FAQs section to make sure everything is clear.
+
+### Create a FAQ
+
+It doesn't matter how big what you are writing on is, it is simpler for the human brain to understand a concept if it comes in a form of a question (This is not peer reviewed science but trust me on this one). That is not to say to only put questions in your docs, please don't do that. My point is, go over every single step in the FAQ.
+
+### Troubleshooting
+
+That one is optional depending on what you write on but here you can make a more advanced version of an FAQ. I know some people don't like to write simple doc and prefer the highly technical one so there you go.
 
 ## Table of contents
 
