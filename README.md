@@ -10,7 +10,7 @@ I currently write software documentation using Markdown so I'll focus on that fo
 
 ## Prerequisites
 
-**1**. I would say the first important thing for a technical writer is good grammar. Seems obvious but you need to read a lot of different books, articles, docs in various fields to acquire as much vocabulary as you can. It also helps seeing how different docs are presented.
+**1**. Good grammar. Seems obvious but you need to read a lot of different books, articles, docs in various fields to acquire as much vocabulary as you can. It also helps seeing how different docs are presented.
 
 I recommend:
    - The [Simplified Technical English](https://en.wikipedia.org/wiki/Simplified_Technical_English) to learn how to write better instructions.
@@ -41,7 +41,7 @@ I have noticed while looking for documentation myself that people and companies 
 
 ### Create a FAQ
 
-It doesn't matter how big what you are writing on is, it is simpler for the human brain to understand a concept if it comes in a form of a question (This is not peer reviewed science but trust me on this one). That is not to say to only put questions in your docs, please don't do that. My point is, go over every single step in the FAQ.
+It is simpler for the human brain to understand a concept if it comes in the form of a question (This is not peer reviewed science but trust me on this one). That is not to say to only put questions in your docs, please don't do that. My point is, go deeper over every single step in the FAQ. One concept in your doc can become 3 questions in the FAQ.
 
 ### Troubleshooting
 
