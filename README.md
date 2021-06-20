@@ -12,7 +12,11 @@ I currently write software documentation using Markdown so I'll focus on that fo
 
 **1**. I would say the first important thing for a technical writer is good grammar. Seems obvious but you need to read a lot of different books, articles, docs in various fields to acquire as much vocabulary as you can. It also helps seeing how different docs are presented.
 
-**2**. You should not be afraid.
+I recommend:
+   - The [Simplified Technical English](https://en.wikipedia.org/wiki/Simplified_Technical_English) to learn how to write better instructions.
+   - [Minimalism](https://clickhelp.com/clickhelp-technical-writing-blog/minimalism-in-technical-documentation/) for simple and easy to understand writing.
+
+**2**. Do not be afraid.
    - Making mistakes is normal. Learn to re-read yourself as much as needed without overdoing it.
    - Not understanding a concept or a product is normal, especially if you don't have an engineering background.
    - Asking (Google) for help is normal. Do not hesitate to ask a developer or someone who knows about the product/service.
